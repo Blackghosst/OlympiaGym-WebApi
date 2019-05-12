@@ -1,0 +1,22 @@
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.deps.json
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.runtimeconfig.json
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.runtimeconfig.dev.json
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.dll
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.pdb
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.csprojResolveAssemblyReference.cache
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.AssemblyInfoInputs.cache
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.AssemblyInfo.cs
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.dll
+C:\Users\Mehdi\Documents\Visual Studio 2017\Projects\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.pdb
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.deps.json
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.runtimeconfig.json
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.runtimeconfig.dev.json
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.dll
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\bin\Debug\netcoreapp2.0\OlympiaGymApi.pdb
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.csproj.CoreCompileInputs.cache
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.AssemblyInfoInputs.cache
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.AssemblyInfo.cs
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.dll
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.pdb
+C:\Users\MYH\source\repos\OlympiaGymApi\OlympiaGymApi\obj\Debug\netcoreapp2.0\OlympiaGymApi.csprojAssemblyReference.cache
